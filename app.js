@@ -1,1 +1,2 @@
-/* Coming Soon */
+/* move to script.js
+ */
